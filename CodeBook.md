@@ -30,11 +30,3 @@ Directions for this project are the following:
 - In satisfying the final direction of this project I used the dplyr package to first group by the subject and activity columns and then used summarize to calculate the average of each feature. In order to indicate that each feature has been averaged, I renamed each feature column in the follow fashion: mean_of_<feature name from features.txt>
 
 
-
-
-
-
-
-
-
-Here is their explanation
