@@ -1,0 +1,6 @@
+.DS_Store
+.RData
+.Rhistory
+UCI\ HAR\ Dataset/
+*.zip
+tidyData_means.txt
